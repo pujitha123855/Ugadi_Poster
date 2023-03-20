@@ -1,0 +1,58 @@
+body{
+    background-image: url("img4.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1200px 600px;
+    background-position: center;
+}
+ div{
+    color:white;
+    font-size: 24px;
+    font-family: "Arial Black", "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+    text-align: center; 
+   padding-left: 480px;
+    
+} 
+h3{
+    color: whitesmoke;
+    font-family:"Monotype Corsiva";
+    font-size: 24px;
+    font-weight: bold;
+    padding-left: 900px;
+}
+h1{
+    color:rgba(255, 0, 0, 0.827);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: bolder;
+    font-style: italic;
+    padding-left: 870px;
+}
+mark{
+    color:rgb(219, 20, 20);
+   
+}
+h2{
+    color:rgba(18, 11, 8, 0.882);
+    font-size: 30px;
+    font-weight: bolder;
+    font-family:"Brush Script MT","Bahnschrift SemiBold","impact","Times New Roman";
+    padding-left: 950px;
+}
+li{
+   
+    list-style-position: inside;
+    padding-left: 870px;
+    font-size: 20px;
+    font-family: "Arial", "Helvetica", "sans-serif";
+    color:green;
+    font-weight: bold;
+}
+.pre{
+    font-family: "Cambria Math","Arial", "Helvetica", "sans-serif";
+    padding-left: 840px;
+    font-size: 15px;
+    font-style: normal;
+    color:white;
+}
